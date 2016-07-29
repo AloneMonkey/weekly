@@ -9,6 +9,7 @@
 ### [科学上网利器Shadowsocks搭建](http://jackln.github.io/2015/08/23/shadowsocks-server/)
 
 分享人：[Jack雷锋](http://jackln.github.io)
+
 介绍：Shadowsocks服务器搭建，有了它GFW就不在了。科学上网利器。
 
 # iOS
