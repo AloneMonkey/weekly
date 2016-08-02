@@ -8,3 +8,17 @@
 分享人：[AloneMonkey](http://www.blogfshare.com)
 
 介绍：Instruments中Time Profiler、Allocations、Leaks三大功能使用介绍。
+
+# 电子工程世界
+
+### [为什么智能家电加上WiFi不叫座也不叫好？](http://www.eet-cn.com/news/article/20160801134509?weixin= )
+
+分享人： [Rayu](http://rayuu.com)
+
+介绍：很多做智能家电的厂商，都认为在冰箱、空调、洗衣机等加上一个WiFi网络，通过智能路由器就可以远程控制，实现“智能”的功能。这个做法已经是家电行业的共识。
+
+###  [三个最简单的三极管放大电路](http://mp.weixin.qq.com/s?__biz=MjM5MTIwMjY1Mg==&mid=401281377&idx=3&sn=4048ef1213c0b1488e8ab4be70559b82&scene=21#wechat_redirect)
+
+分享人： [Rayu](http://rayuu.com)
+
+介绍： 三个最简单的三极管放大电路。
