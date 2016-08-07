@@ -1,6 +1,3 @@
-# PHP
-
-
 # iOS
 
 ### [iOS 性能优化：Instruments 工具的救命三招](https://blog.leancloud.cn/2835/)
@@ -15,6 +12,39 @@
 
 介绍：这篇文章非常详细的分析 iOS 界面构建中的各种性能问题以及对应的解决思路，同时给出一个开源的微博列表实现，通过实际的代码展示如何构建流畅的交互。
 
+### [xib的动态桥接](http://blog.sunnyxx.com/2014/07/01/ios_ib_bridge/)
+
+分享人：[AloneMonkey](http://www.blogfshare.com)
+
+介绍：直接进去看效果吧，iOS的黑魔法~
+
+### [MVVM 不是那么好](http://swift.gg/2016/05/26/mvvm-is-not-very-good/)
+
+分享人：[AloneMonkey](http://www.blogfshare.com)
+
+介绍：MVVM是一种反人类的设计模式？
+
+### [代码签名探析](https://objccn.io/issue-17-2/)
+
+分享人：[AloneMonkey](http://www.blogfshare.com)
+
+介绍：你没有关注过的iOS代码签名机制
+
+# Android
+
+### [Android开源组件](http://www.android-gems.com/)
+
+分享人：[AloneMonkey](http://www.blogfshare.com)
+
+介绍：收集Android开源组件的一个网站
+
+# 工具
+
+### [MarkEditor](http://markeditor.com/app/markeditor)
+
+分享人：[AloneMonkey](http://www.blogfshare.com)
+
+介绍：MarkEditor以markdown为基础语法，多标签栏、文件夹结构，纯文本的方式带来优雅、高效的体验。还没深入尝试，如果你觉得好用可以告诉我下，哈哈~
 
 # 电子工程世界
 
