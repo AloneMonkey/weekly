@@ -8,7 +8,7 @@
 
 # 工具
 
-**[转载][Windows]** [爱奇艺VIP播放器(电脑版，更新接口2个)V1.2_注意是播放器，不是账号获取！](http://pan.baidu.com/s/1hrNAURq)
+### **[转载][Windows]** [爱奇艺VIP播放器(电脑版，更新接口2个)V1.2_注意是播放器，不是账号获取！](http://pan.baidu.com/s/1hrNAURq)
 
 密码: n83i
 
@@ -18,7 +18,7 @@
 
 # 单片机系列
 
-### [原创][瑞萨单片机系统低功耗的设计](http://blog.rayuu.com/lowpower.html)
+### [瑞萨单片机系统低功耗的设计](http://blog.rayuu.com/lowpower.html)
 
 分享人： [Rayu](http://rayuu.com)
 
