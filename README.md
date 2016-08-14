@@ -1,6 +1,17 @@
 # weekly
 Coder博客群周刊，目的在于分享每周看到的干货或者自己的分享
 
+### [第三期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/%E7%AC%AC%E4%B8%89%E6%9C%9F/%E7%AC%AC%E4%B8%89%E6%9C%9FCoder%E7%BE%A4%E5%91%A8%E6%8A%A5.md)
+
+* 现代iOS应用安全
+* iOS 资源大全
+* App适配iPhone 6/ Plus和iOS 8：10条小秘诀
+* 扩展UIColor，支持十六进制颜色设置
+* JavaScript与Objective-C之间的通信
+* Sketch
+* 爱奇艺VIP播放器
+* 瑞萨单片机系统低功耗的设计
+
 ### [第二期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/%E7%AC%AC%E4%BA%8C%E6%9C%9F/%E7%AC%AC%E4%BA%8C%E6%9C%9FCoder%E7%BE%A4%E5%91%A8%E6%8A%A5.md)
 
 * iOS 性能优化：Instruments 工具的救命三招
