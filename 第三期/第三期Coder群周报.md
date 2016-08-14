@@ -1,4 +1,17 @@
 # iOS
+
+### [现代iOS应用安全](http://www.infoq.com/cn/news/2016/08/modern-ios-app-security)
+
+分享人：[AloneMonkey](http://www.blogfshare.com)
+
+介绍：在QCon纽约2016大会上，Trail of Bits首席执行官兼安全专家Dan Guido阐述了如何确保iOS应用安全，包括正确地使用所有iOS安全配置，而且不要忘记，应用可能运行在一部已经越狱的手机上。
+
+### [iOS 资源大全](http://ios.jobbole.com/83907/)
+
+分享人：[AloneMonkey](http://www.blogfshare.com)
+
+介绍：这是个精心编排的列表，它包含了优秀的 iOS 框架、库、教程、XCode 插件、组件等等。
+
 ### [App适配iPhone 6/ Plus和iOS 8：10条小秘诀](http://www.cocoachina.com/ios/20150108/10864.html)
 
 分享人：[AloneMonkey](http://www.blogfshare.com)
@@ -26,7 +39,7 @@
 介绍：Sketch是一款轻量，易用的矢量设计工具，让UI设计更简单，更高效。
 
 
-### **[转载][Windows]** [爱奇艺VIP播放器(电脑版，更新接口2个)V1.2_注意是播放器，不是账号获取！](http://pan.baidu.com/s/1hrNAURq)
+### [转载][Windows][爱奇艺VIP播放器(电脑版，更新接口2个)V1.2_注意是播放器，不是账号获取！](http://pan.baidu.com/s/1hrNAURq)
 
 密码: n83i
 
