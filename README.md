@@ -3,7 +3,17 @@ Coder博客群周刊，目的在于分享每周看到的干货或者自己的分
 
 ### [第四期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/%E7%AC%AC%E5%9B%9B%E6%9C%9F/%E7%AC%AC%E5%9B%9B%E6%9C%9FCoder%E7%BE%A4%E5%91%A8%E6%8A%A5.md)
 
-*
+* Swift Runtime动态性分析
+* 手把手教你给一个iOS app配置多个环境变量
+* 深入理解Objective-C：方法缓存
+* 微信iOS SQLite源码优化实践
+* iOS 都有哪些设计上的神细节？不知道就别说自己是骨灰级果粉
+* iOS 程序 main 函数之前发生了什么
+* 深入理解Dalvik字节码指令及Smali文件
+* Android 进程保活招式大全
+* 基于Postman的API自动化测试
+* 再次引领移动安全：爱加密推出第四代VMP保护技术
+* 基于STM8的最牛叉的甲醛、PM2.5检测的作品分享-程序开源（基于WiFi ESP8266 Http连接）
 
 ### [第三期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/%E7%AC%AC%E4%B8%89%E6%9C%9F/%E7%AC%AC%E4%B8%89%E6%9C%9FCoder%E7%BE%A4%E5%91%A8%E6%8A%A5.md)
 
