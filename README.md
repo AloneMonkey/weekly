@@ -1,6 +1,18 @@
 # weekly
 Coder博客群周刊，目的在于分享每周看到的干货或者自己的分享
 
+### [第五期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/%E7%AC%AC%E4%BA%94%E6%9C%9F/%E7%AC%AC%E4%BA%94%E6%9C%9FCoder%E7%BE%A4%E5%91%A8%E6%8A%A5.md)
+
+* 移动客户端中高效使用 SQLite
+* 玩转Podfile
+* iOS 10 应用扩展的剧变，对你的 iPhone 有什么影响？
+* iOS开发通过代码方式使用AutoLayout
+* iOS 8 WebKit框架概览（上）
+* iOS 8 WebKit框架概览（下）
+* 如何进行 HTTP Mock（iOS）
+* 魏晓军：技术人如何打造技术品牌
+* 为什么支付宝很难做成社交，而又一定会继续做？
+
 ### [第四期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/%E7%AC%AC%E5%9B%9B%E6%9C%9F/%E7%AC%AC%E5%9B%9B%E6%9C%9FCoder%E7%BE%A4%E5%91%A8%E6%8A%A5.md)
 
 * Swift Runtime动态性分析
