@@ -1,6 +1,15 @@
 # weekly
 Coder博客群周刊，目的在于分享每周看到的干货或者自己的分享
 
+### [第六期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/%E7%AC%AC%E5%85%AD%E6%9C%9F/%E7%AC%AC%E5%85%AD%E6%9C%9FCoder%E7%BE%A4%E5%91%A8%E6%8A%A5.md)
+
+* 如何快速的开发一个完整的iOS直播app(原理篇)
+* UIKit与Core Graphics绘图技术详解
+* 蘑菇街App的组件化之路
+* Android逆向之旅---静态方式破解微信获取聊天记录和通讯录信息
+* Android界面性能调优手册
+* 学习CRC32、CRC16、CRC原理和算法的总结
+
 ### [第五期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/%E7%AC%AC%E4%BA%94%E6%9C%9F/%E7%AC%AC%E4%BA%94%E6%9C%9FCoder%E7%BE%A4%E5%91%A8%E6%8A%A5.md)
 
 * 移动客户端中高效使用 SQLite
