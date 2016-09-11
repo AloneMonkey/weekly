@@ -1,6 +1,16 @@
 # weekly
 Coder博客群周刊，目的在于分享每周看到的干货或者自己的分享
 
+### [第七期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/第七期/第七期Coder群周报.md)
+
+* UIKit与Core Graphics绘图技术详解
+* HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事
+* 放肆的使用UIBezierPath和CAShapeLayer画各种图形
+* JavaScriptCore初探
+* iOS App组件化开发实践
+* 实现Uber的启动动画
+* phpsocket客户端以及服务器例子
+
 ### [第六期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/%E7%AC%AC%E5%85%AD%E6%9C%9F/%E7%AC%AC%E5%85%AD%E6%9C%9FCoder%E7%BE%A4%E5%91%A8%E6%8A%A5.md)
 
 * 如何快速的开发一个完整的iOS直播app(原理篇)
