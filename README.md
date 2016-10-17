@@ -1,6 +1,29 @@
 # weekly
 Coder博客群周刊，目的在于分享每周看到的干货或者自己的分享
 
+### [第九期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/第九期/第九期Coder群周报.md)
+
+* React Native通信机制详解
+* Masonry介绍与使用实践：快速上手Autolayout
+* 黑科技：把第三方 iOS 应用转成动态库
+* 史上最详细的iOS之事件的传递和响应机制-原理篇
+* iOS App组件化开发实践
+* 谈谈App混合开发
+* 反调试方法一 - 读取进程status文件
+* 反调试方法二 - 抢占ptrace
+* 云栖大会
+
+### [第八期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/第八期/第八期Coder群周报.md)
+
+* iOS 10 的适配问题
+* Android中直播视频技术探究之—基础知识大纲介绍
+* 常见app加固厂商脱壳方法研究
+* Android应用方法隐藏及反调试技术浅析
+* Anti-Debugging Skills In APK
+* 别开发  app 了
+* 微信小程序
+* 微信小程序资源汇总整理
+
 ### [第七期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/第七期/第七期Coder群周报.md)
 
 * UIKit与Core Graphics绘图技术详解
