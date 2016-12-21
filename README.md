@@ -1,6 +1,19 @@
 # weekly
 Coder博客群周刊，目的在于分享每周看到的干货或者自己的分享
 
+### [第十期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/第十期/第十期Coder群周报.md)
+
+* 认识copy关键字
+* iOS开发－发送邮件（E-mail）方法整理合集（共3种）
+* 对苹果“五仁”编程语言Swift的简单分析
+* 使用 iOS 8 Spring Animation API 创建动画
+* iOS动画-从UIView动画说起
+* ReactiveCocoa 和 MVVM 入门
+* GCD高级用法
+* iOS应用架构现状分析
+* Git 分支
+* Flinto
+
 ### [第九期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/第九期/第九期Coder群周报.md)
 
 * React Native通信机制详解
