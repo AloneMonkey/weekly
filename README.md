@@ -1,6 +1,29 @@
 # weekly
 Coder博客群周刊，目的在于分享每周看到的干货或者自己的分享
 
+### [第十一期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/第十一期/第十一期Coder群周报.md)
+
+* 关于LLVM，这些东西你必须知道！
+* LLVM 官方文档
+* LLVM PROJECT BLOG
+* The Compiler
+* LLVM Tutorial
+* Clang-tutorial
+* GETTING STARTED WITH LLVM/CLANG ON OS X
+* Clang Tutorial
+* Implementing a code generator with libclang
+* 基于LLVM的代码混淆
+* Implementing a JIT Compiled Language with Haskell and LLVM
+* Let's Write an LLVM Specializer for Python!
+* Clang Tutorial 翻译
+* CLANG技术分享系列
+* JSPatch Convertor 实现原理详解
+* 基于clang插件的一种iOS包大小瘦身方案
+* obfuscator-llvm
+* LLVM二三事
+* Getting Started with LLVM Core Libraries
+* LLVM Cookbook
+
 ### [第十期 Coder群周报](https://github.com/AloneMonkey/weekly/blob/master/第十期/第十期Coder群周报.md)
 
 * 认识copy关键字
